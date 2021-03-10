@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/visoc/Documentos/Acursos/Seminario2/Seminario-de-Tesis-2/pre-pruebas/tflearn.lstm.modelsingpu"
+all_model_checkpoint_paths: "/home/visoc/Documentos/Acursos/Seminario2/Seminario-de-Tesis-2/pre-pruebas/tflearn.lstm.modelsingpu"

@@ -1,0 +1,13 @@
+0_prueba_r.wav,cero
+1_v_v1.wav,uno
+1_v_v2.wav,uno
+1_v_v3.wav,uno
+2_vi_v1.wav,dos
+2_vi_v2.wav,dos
+2_vi_v3.wav,dos
+3_v_v1.wav,tres
+3_v_v2.wav,tres
+3_v_v3.wav,tres
+6_prueba_b.wav,seis
+9_prueba_b.wav,nueve
+9_prueba_r.wav,nueve
