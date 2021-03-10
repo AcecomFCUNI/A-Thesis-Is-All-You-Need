@@ -9,7 +9,7 @@
 ### ℹ️ Descripción
 Este repositorio contiene material recopilado a lo largo de los años sobre las diferentes investigaciones hechas por los miembros y ex-miembros de [ACECOM](https://www.facebook.com/acecom.uni/). Dichas investigaciones se presentan en formato de SEMINARIO DE TESIS (I y II), el cual contiene un documento *Doc* que explica de forma más detallada la investigación; también se adjunta el banner o *Presentation* usado durante la sustentación para el jurado. Opcionalmente (no todos los trabajos lo tienen) en la carpeta [`Implementaciones`](./Implementaciones) puede encontrar los archivos necesarios para que usted pueda replicar los trabajos de investigación.
 
-Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM.
+Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM y público en general.
 
 ### 🔍 Trabajos disponibles
 
