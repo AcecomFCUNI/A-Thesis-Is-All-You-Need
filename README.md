@@ -29,7 +29,7 @@ Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM y púb
 - ☑️ [*Localización de fallas determinadas en código fuente aplicando modelos estadísticos*](./Seminario_2/Seminario_2_JhonRojas_Doc.pdf), Jhon Rojas Isidro
 - ☑️ [*Mejoramiento del aprendizaje en capacitaciones para operarios de trabajos de riesgo en Perú utilizando realidad virtual*](./Seminario_2/Seminario_2_DanielHidalgo_Doc.pdf), Daniel Alfredo Hidalgo
 - ☑️ [*Análisis de la movilidad de los microcrustáceos en presencia de Agentes Contaminantes: Un enfoque basado en Deep Learning*](./Seminario_2/Seminario_2_NelsonSanabio_Doc.pdf), Nelson Sanabio
-- ☑️ [*Sistemas de Preguntas y Respuestas con redes LSTM, Mecanismos de Atención y modelos pre-entrenados*](./Seminario_2/Seminario_2_NelsonSanabio_Doc.pdf), Jose Luis Navío Torres
+- ☑️ [*Sistemas de Preguntas y Respuestas con redes LSTM, Mecanismos de Atención y modelos pre-entrenados*](./Seminario_2/Seminario_2_JoseNavio_Doc.pdf), Jose Luis Navío Torres
 - ☑️ [*Análisis del terrorismo: Predicción del perpetrador*](./Seminario_2/Seminario_2_IngridIpanaque_Doc.pdf), Ingrid F. Ipanaqué C.
 
 ## 👨‍💻 Maintainers
