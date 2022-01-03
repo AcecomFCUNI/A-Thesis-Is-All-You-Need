@@ -1,5 +1,5 @@
 <h2 align="center">
-<p>Thesis Is All You Need 📚</p>
+<p>A Thesis Is All You Need 📚</p>
 </h2>
 
 <p align="center"> 
