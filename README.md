@@ -19,7 +19,9 @@ Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM y púb
 - ☑️ [*Sistema inteligente de preguntas y respuestas utilizando técnicas de Procesamiento del Lenguaje Natural*](./Seminario_1/Seminario_1_JoseNavio_Doc.pdf), Jose Luis Navío Torres
 - ☑️ [*Predicción del comportamiento de actividades terroristas basado en Redes Neuronales Profundas*](./Seminario_1/Seminario_1_IngridIpanaque_Doc.pdf), Ingrid Ipanaqué Casquina
 - ☑️ [*Encriptación de Imágenes basado en los Atractores Caóticos de Lorenz y Rössler*](./Seminario_1/Seminario_1_CristopherGarcia_Doc.pdf),  Cristopher Sebastián García Pacheco
-
+- ☑️ [*Enrutamiento  ́optimo para el envío de pedidos compartidos basado en aprendizaje por refuerzo*](./Seminario_1/Seminario_1_BrandoPalacios_Doc.pdf),  Brando Miguel Palacios Mogollon
+- ☑️ [*Self Supervised Learning with Transformers networks focused on Computer Vision tasks*](./Seminario_1/Seminario_1_CristhianWiki_Doc.pdf),  Cristhian Wiki Sánchez Sauñe
+- ☑️ [*Teoría de autómatas en el diseño de juegos*](./Seminario_1/Seminario_1_PieroVioleta_Doc.pdf),  Piero Alexis Violeta Estrella
 
 
  **Seminario de tesis 2**
@@ -31,6 +33,8 @@ Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM y púb
 - ☑️ [*Análisis de la movilidad de los microcrustáceos en presencia de Agentes Contaminantes: Un enfoque basado en Deep Learning*](./Seminario_2/Seminario_2_NelsonSanabio_Doc.pdf), Nelson Sanabio
 - ☑️ [*Sistemas de Preguntas y Respuestas con redes LSTM, Mecanismos de Atención y modelos pre-entrenados*](./Seminario_2/Seminario_2_NelsonSanabio_Doc.pdf), Jose Luis Navío Torres
 - ☑️ [*Análisis del terrorismo: Predicción del perpetrador*](./Seminario_2/Seminario_2_IngridIpanaque_Doc.pdf), Ingrid F. Ipanaqué C.
+- ☑️ [*Encriptación de Sonidos basado en los Sistemas Caóticos de Lorenz y Rössler*](./Seminario_2/Seminario_2_CristopherGarcia_Doc.pdf),  Cristopher Sebastián García Pacheco
+
 
 ## 👨‍💻 Maintainers
 * Cristhian Wiki, Github: [HiroForYou](https://github.com/HiroForYou)
