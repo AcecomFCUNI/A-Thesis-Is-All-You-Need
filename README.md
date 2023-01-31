@@ -7,7 +7,7 @@
 </p>
 
 ### ℹ️ Descripción
-Este repositorio contiene material recopilado a lo largo de los años sobre las diferentes investigaciones hechas por los miembros y ex-miembros de [ACECOM](https://www.facebook.com/acecom.uni/). Dichas investigaciones se presentan en formato de SEMINARIO DE TESIS (I y II), el cual contiene un documento *Doc* que explica de forma más detallada la investigación; también se adjunta el banner o *Presentation* usado durante la sustentación para el jurado. Opcionalmente (no todos los trabajos lo tienen) en la carpeta [`Implementaciones`](./Implementaciones) puede encontrar los archivos necesarios para que usted pueda replicar los trabajos de investigación.
+Este repositorio contiene material recopilado a lo largo de los años sobre las diferentes investigaciones hechas por los miembros y ex-miembros de [ACECOM](https://www.facebook.com/acecom.uni/). Dichas investigaciones se presentan en formato de SEMINARIO DE TESIS (I, II y III), el cual contiene un documento *Doc* que explica de forma más detallada la investigación; también se adjunta el banner o *Presentation* usado durante la sustentación para el jurado. Opcionalmente (no todos los trabajos lo tienen) en la carpeta [`Implementaciones`](./Implementaciones) puede encontrar los archivos necesarios para que usted pueda replicar los trabajos de investigación.
 
 Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM y público en general.
 
@@ -22,6 +22,7 @@ Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM y púb
 - ☑️ [*Enrutamiento  ́optimo para el envío de pedidos compartidos basado en aprendizaje por refuerzo*](./Seminario_1/Seminario_1_BrandoPalacios_Doc.pdf),  Brando Miguel Palacios Mogollon
 - ☑️ [*Self Supervised Learning with Transformers networks focused on Computer Vision tasks*](./Seminario_1/Seminario_1_CristhianWiki_Doc.pdf),  Cristhian Wiki Sánchez Sauñe
 - ☑️ [*Teoría de autómatas en el diseño de juegos*](./Seminario_1/Seminario_1_PieroVioleta_Doc.pdf),  Piero Alexis Violeta Estrella
+- ☑️ [*Video análisis aplicado al seguimiento de jugadores de fútbol*](./Seminario_1/Seminario_1_Alexander_Lique_Doc.pdf),  Alexander Leonardo Lique Lamas
 
 
  **Seminario de tesis 2**
@@ -34,6 +35,11 @@ Esta colección busca ser de ayuda para las nuevas generaciones de ACECOM y púb
 - ☑️ [*Sistemas de Preguntas y Respuestas con redes LSTM, Mecanismos de Atención y modelos pre-entrenados*](./Seminario_2/Seminario_2_JoseNavio_Doc.pdf), Jose Luis Navío Torres
 - ☑️ [*Análisis del terrorismo: Predicción del perpetrador*](./Seminario_2/Seminario_2_IngridIpanaque_Doc.pdf), Ingrid F. Ipanaqué C.
 - ☑️ [*Encriptación de Sonidos basado en los Sistemas Caóticos de Lorenz y Rössler*](./Seminario_2/Seminario_2_CristopherGarcia_Doc.pdf),  Cristopher Sebastián García Pacheco
+
+
+ **Seminario de tesis 3**
+
+ - ☑️ [*Optimización de costos de viajes compartidos bajo demanda basados en aprendizaje por refuerzo*](./Seminario_3/Seminario_3_BrandoPalacios_Doc.pdf),  Brando Miguel Palacios Mogollon
 
 
 ## 👨‍💻 Maintainers
